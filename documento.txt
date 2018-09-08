@@ -1,2 +1,1 @@
-Hola Camilo Baquero! Este es mi primer cambio.
-CAMBIO EN MASTER
+HOLA, ESTE ES RAMA 2!
